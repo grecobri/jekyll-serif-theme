@@ -1,9 +1,9 @@
 main:
-  - name: "Services"
-    url: "/services/"
+  - name: "Schedule"
+    url: "https://calendly.com/briangreco"
     weight: 2
-  - name: "Team"
-    url: "/team/"
+  - name: "YouTube"
+    url: "https://www.youtube.com/channel/UCRj0VLGKAShVTjwZLXIzMSQ"
     weight: 3
   - name: "About"
     url: "/about/"
