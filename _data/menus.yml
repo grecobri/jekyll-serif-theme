@@ -1,5 +1,5 @@
 main:
-  - name: "Schedule"
+  - name: "Book Now"
     url: "https://calendly.com/briangreco"
     weight: 2
   - name: "YouTube"
