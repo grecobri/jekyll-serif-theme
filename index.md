@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: false
 show_call_box: true
 ---
 
-# Brian Greco - Statistics Tutoring and Courses
+# Brian Greco Statistics Tutoring and Courses
 
 Tutoring for AP Statistics, Undergraduate and Graduate Students, and Data Science Professionals
