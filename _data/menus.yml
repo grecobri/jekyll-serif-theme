@@ -2,15 +2,18 @@ main:
   - name: "Schedule Appointment"
     url: "https://calendly.com/briangreco"
     weight: 2
+  - name: "Testimonials"
+    url: "/testimonials/"
+    weight: 3  
   - name: "YouTube"
     url: "https://www.youtube.com/channel/UCRj0VLGKAShVTjwZLXIzMSQ"
-    weight: 3
+    weight: 4
   - name: "About"
     url: "/about/"
-    weight: 4
+    weight: 5
   - name: "Contact"
     url: "https://forms.gle/Ms9915cmL9Bw8DVd6"
-    weight: 5
+    weight: 6
 
 footer:
   - name: "Home"
