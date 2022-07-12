@@ -2,7 +2,7 @@ main:
   - name: "Introductory Statistics Course"
     url: "https://www.udemy.com/course/statistics-intro/?referralCode=FB3CDAAC33AB3B4C8BC1"
     weight: 2
-    - name: "Testimonials"
+  - name: "Testimonials"
     url: "/testimonials/"
     weight: 3 
   - name: "YouTube"
