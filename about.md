@@ -13,6 +13,4 @@ I specialize in the following subjects:
 - Mathematical Statistics for Undergraduate, Masters, and PhD Students
 - Statistics Preparation for Data Scientist Job Interviews
 
-If you would like to schedule a tutoring appointment, [click here](https://calendly.com/briangreco).  Standard appointments are 60 minutes.  Package deals for multiple lessons are available.
-
-If you are unsure if I can help you, please feel free to [contact me](https://forms.gle/Ms9915cmL9Bw8DVd6) before scheduling an appointment.
+If you would like to schedule a tutoring appointment, please [contact me](https://forms.gle/Ms9915cmL9Bw8DVd6) and I will respond quickly.  Standard appointments are $120 per hour.  Package deals for multiple lessons are available for a discounted rate.
