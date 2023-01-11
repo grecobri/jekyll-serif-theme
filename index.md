@@ -1,5 +1,5 @@
 ---
-title: Brian Greco
+title: Brian Greco - Statistics Tutor
 layout: home
 description: I teach statistics to students of all levels - college, AP, graduate students, and professional data scientists.
 intro_image: "images/illustrations/photo1.png"
