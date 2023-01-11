@@ -11,3 +11,5 @@ show_call_box: true
 # Brian Greco Statistics Tutoring and Courses
 
 Tutoring for AP Statistics, Undergraduate and Graduate Students, and Data Science Professionals
+
+Lessons are $120/hour, or $100/hour when purchased in packages of 5+ hours.
