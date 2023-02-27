@@ -13,4 +13,4 @@ I specialize in the following subjects:
 - Mathematical Statistics for Undergraduate, Masters, and PhD Students
 - Statistics Preparation for Data Scientist Job Interviews
 
-If you would like to schedule a tutoring appointment, please [contact me](https://forms.gle/Ms9915cmL9Bw8DVd6) and I will respond quickly.  Standard appointments are $120 per hour.  Package deals for multiple lessons are available for a discounted rate.
+If you would like to schedule a tutoring appointment, please [contact me](https://forms.gle/Ms9915cmL9Bw8DVd6) and I will respond quickly.  Standard appointments are $100 per hour.
