@@ -12,4 +12,4 @@ show_call_box: true
 
 Tutoring for AP Statistics, Undergraduate and Graduate Students, and Data Science Professionals
 
-Lessons are $120/hour, or $100/hour when purchased in packages of 5+ hours.
+Standard appointments are $100 per hour.
