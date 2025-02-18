@@ -14,14 +14,8 @@ main:
   - name: "About"
     url: "/about/"
     weight: 6
-  - name: "Contact/Schedule Appointment"
-    url: "https://forms.gle/Ms9915cmL9Bw8DVd6"
-    weight: 7
     
 footer:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "Contact"
-    url: "https://forms.gle/Ms9915cmL9Bw8DVd6"
-    weight: 2
